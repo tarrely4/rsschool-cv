@@ -1,11 +1,26 @@
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+1. Aliaksei Kamarouski
+
+2. Contact Info:
+   E-mail:	tarr.mail@yandex.ru
+   Telephone:	+375292577740
+   WhatsApp/Telegram/Viber: +375292577740
+
+3. Summary:
+   Analytical thinking, teamwork, learnability
+
+4. Skills:
+   Basic knowledge in FrontEnd (HTML, CSS, JavaScript)
+   Basic knowledge in requirements analysis, maintaining technical documentation, testing (self education)
+
+5. Code examples:
+   not yet
+
+6. Experience:
+   not yet
+
+7. College of communication, Specialization: Telecommunications
+   IT Academy courses: Fundamentals of Object Oriented Programming, Fundamentals of Databases, Fundamentals of Regular Expressions
+   Online learning: HTML, CSS, JavaScript
+
+8. English: A2 (EPAM Online test). Studying with a tutor now.
+   Polish: B1
