@@ -1,26 +1,30 @@
-1. Aliaksei Kamarouski
+# Aliaksei Kamarouski
 
-2. Contact Info:
-   E-mail:	tarr.mail@yandex.ru
-   Telephone:	+375292577740
-   WhatsApp/Telegram/Viber: +375292577740
+### Contact Info:
+- E-mail:	tarr.mail@yandex.ru
+- Telephone:	+375292577740
+- WhatsApp/Telegram/Viber: +375292577740
 
-3. Summary:
-   Analytical thinking, teamwork, learnability
+### Summary:
+- Analytical thinking
+- Teamwork
+- Learnability
 
-4. Skills:
-   Basic knowledge in FrontEnd (HTML, CSS, JavaScript)
-   Basic knowledge in requirements analysis, maintaining technical documentation, testing (self education)
+### Skills:
+- Basic knowledge in HTML, CSS, JavaScript, Object-oriented programming (online courses)
+- Basic knowledge in requirements analysis, maintaining technical documentation, testing (self education)
 
-5. Code examples:
-   not yet
+### Code examples:
+- not yet :neutral_face:
 
-6. Experience:
-   not yet
+### Experience:
+- not yet :neutral_face:
 
-7. College of communication, Specialization: Telecommunications
-   IT Academy courses: Fundamentals of Object Oriented Programming, Fundamentals of Databases, Fundamentals of Regular Expressions
-   Online learning: HTML, CSS, JavaScript
+### Education:
+- College of communication, Specialization: Telecommunications
+- IT Academy courses: Fundamentals of Object-Oriented Programming, Fundamentals of Databases, Fundamentals of Regular Expressions
+- Online learning: HTML, CSS, JavaScript
 
-8. English: A2 (EPAM Online test). Studying with a tutor now.
-   Polish: B1
+### Languages
+- English: A2 (EPAM Online test), studying with a tutor now.
+- Polish: B1
